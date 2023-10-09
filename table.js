@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('./output.json')
+  fetch('./contracted.json')
       .then(response => response.json())
       .then(data => {
           const dataTable = document.getElementById('data-table');

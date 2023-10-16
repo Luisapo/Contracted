@@ -12932,8 +12932,8 @@
         "PHYSICIAN":"FLOR N ARELLANO",
         "SERVICE LOCATION":"WEST",
         "INSURANCE":"NAVIGATE (EPO\/HMO\/ HMO PLUS \/ POS)",
-        "  CONTRACTED":"IN PROCESS ",
-        "EFFECTIVE DATE":null
+        "  CONTRACTED":"YES",
+        "EFFECTIVE DATE":"01\/23\/2023"
     },
     {
         "PHYSICIAN":"FLOR N ARELLANO",

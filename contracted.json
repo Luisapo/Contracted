@@ -8291,8 +8291,8 @@
         "PHYSICIAN":"DRISDE I CRUZ MARTINEZ",
         "SERVICE LOCATION":"EL MIRAGE",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"YES",
-        "EFFECTIVE DATE":"10\/01\/2022"
+        "  CONTRACTED":"NO",
+        "EFFECTIVE DATE":null
     },
     {
         "PHYSICIAN":"DRISDE I CRUZ MARTINEZ",
@@ -39184,5 +39184,12 @@
         "INSURANCE":"HONOR HEALTH PLAN PPO",
         "  CONTRACTED":"NO",
         "EFFECTIVE DATE":null
+    },
+    {
+        "PHYSICIAN":"JAVIER PADILLA",
+        "SERVICE LOCATION":"CENTRO",
+        "INSURANCE":"AARP Medicare Advantage Plan 3 (HMO) UNDER PHOENIX DIRECT 2 (UHC WEST)",
+        "  CONTRACTED":"YES",
+        "EFFECTIVE DATE":"07\/14\/2023"
     }
 ]

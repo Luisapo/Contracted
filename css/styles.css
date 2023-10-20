@@ -28,7 +28,8 @@
   }
   
   
-  input[type="text"] {  
+  input[type="search"] {
+    appearance: none;  
     justify-content: space-evenly;
     box-sizing: border-box;  
     text-align: center;

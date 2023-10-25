@@ -4,13 +4,20 @@ document.addEventListener('DOMContentLoaded', () => {
       .then(data => {
           const dataTable = document.getElementById('data-table');
           const tbody = document.createElement('tbody'); // Create a tbody element
+          dataTable.style.borderSpacing = "2px";
+          dataTable.style.borderCollapse = "separate";
 
           // Populate table with data
           data.forEach(rowData => {
               const row = document.createElement('tr');
+              
               Object.values(rowData).forEach(value => {
-                  const cell = document.createElement('td');
+                  const cell = document.createElement('td');                  
                   cell.textContent = value;
+                  cell.style.border = "1px solid";                  
+                  cell.style.padding = "10px 20px";
+                  
+                  
                   row.appendChild(cell);
               });
               tbody.appendChild(row); // Append rows to the tbody

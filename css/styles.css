@@ -1,3 +1,7 @@
+.navbar-container {
+  padding-left: 10px;
+}
+
 .table-data {
     border-collapse: collapse;    
     letter-spacing: 1px;
@@ -10,11 +14,10 @@
     width: 100%;
   }
   
-  td {
-    border: 1px solid rgb(190,190,190);
-    padding: 10px 20px;
-    text-align: center;  
+  td {    
+    text-align: center;
   }
+  
   
   th {  
     background-image: url(../images/tableBackground.png);

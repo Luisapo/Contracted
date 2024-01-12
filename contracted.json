@@ -2012,8 +2012,8 @@
         "PHYSICIAN":"AMANDA RASCON",
         "SERVICE LOCATION":"LAVEEN",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"YES",
-        "EFFECTIVE DATE":"08\/25\/2022"
+        "  CONTRACTED":"NO",
+        "EFFECTIVE DATE":null
     },
     {
         "PHYSICIAN":"AMANDA RASCON",
@@ -11427,8 +11427,8 @@
         "PHYSICIAN":"ERICK TORRES",
         "SERVICE LOCATION":"WEST",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"YES",
-        "EFFECTIVE DATE":"CONTRACTED"
+        "  CONTRACTED":"NO",
+        "EFFECTIVE DATE":null
     },
     {
         "PHYSICIAN":"ERICK TORRES",
@@ -12218,8 +12218,8 @@
         "PHYSICIAN":"FERNANDO GALAVIZ",
         "SERVICE LOCATION":"NORTH",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"YES",
-        "EFFECTIVE DATE":"01\/04\/2023"
+        "  CONTRACTED":"NO",
+        "EFFECTIVE DATE":null
     },
     {
         "PHYSICIAN":"FERNANDO GALAVIZ",
@@ -19421,8 +19421,8 @@
         "PHYSICIAN":"JAVIER PADILLA",
         "SERVICE LOCATION":"CENTRO",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"YES",
-        "EFFECTIVE DATE":"07\/14\/2023"
+        "  CONTRACTED":"NO",
+        "EFFECTIVE DATE":null
     },
     {
         "PHYSICIAN":"JAVIER PADILLA",
@@ -39499,5 +39499,12 @@
         "INSURANCE":"HUMANA MEDICARE ADVANTAGE PPO PLAN",
         "  CONTRACTED":"YES",
         "EFFECTIVE DATE":"IN-NETWORK"
+    },
+    {
+        "PHYSICIAN":"JAVIER PADILLA",
+        "SERVICE LOCATION":"CENTRO",
+        "INSURANCE":"ALIGNMENT HEALTH PLAN",
+        "  CONTRACTED":"NO",
+        "EFFECTIVE DATE":null
     }
 ]

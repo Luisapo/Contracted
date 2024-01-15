@@ -30887,8 +30887,8 @@
         "PHYSICIAN":"YESENIA OCHOA",
         "SERVICE LOCATION":"WEST",
         "INSURANCE":"DEVOTED HEALTH",
-        "  CONTRACTED":"IN PROCESS",
-        "EFFECTIVE DATE":null
+        "  CONTRACTED":"YES",
+        "EFFECTIVE DATE":"11\/15\/2023"
     },
     {
         "PHYSICIAN":"YESENIA OCHOA",

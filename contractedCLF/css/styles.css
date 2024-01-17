@@ -1,0 +1,100 @@
+:root{
+  --tiny-font: 11px;
+}
+
+body{
+  background-color: rgba(240, 215, 229, 0.739);
+  min-width: 950px;
+}
+
+.navbar-container {
+  padding-left: 10px;
+}
+
+.even-row {
+  background-color: #d5b4c7; 
+}
+
+.odd-row{
+  background-color: white;
+}
+
+@media(min-width:2001px){
+  body{
+    overflow-x: hidden;
+  }
+}
+
+
+
+.table-data {
+    border-collapse: collapse;    
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    margin: 0px;
+    font-family: sans-serif;  
+  }
+  
+  #data-table {  
+    width: 100%;
+  }
+  
+  td {    
+    text-align: center;
+  }
+  
+  
+  th {  
+    background-image: url(../images/tableBackground.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:25% 75%; 
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0px;  
+  }
+  
+  
+  input[type="search"] {
+    appearance: none;  
+    justify-content: space-evenly;
+    box-sizing: border-box;  
+    text-align: center;
+    font-size: larger;
+    border-radius: 20px;
+    
+
+  }
+  
+  @media (max-width: 1100px) {
+    th {
+      display: block;
+    }
+  }
+  
+  .textInput {
+    background-color: #f5f5f5; 
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 8px rgba(75, 185, 240, 0.869);
+    padding: 12px;
+    margin-right: 12px; 
+  }
+
+  .textForBox{
+    position: absolute;
+    z-index: 2;
+  }
+
+  .textInput:focus::placeholder{
+      position: absolute;
+      font-size: var(--tiny-font);
+      transition: .3s;
+  }
+
+  .textInput:focus,
+.textInput:not(:placeholder-shown).textInput:not(:focus){
+  transform: translate(4px, -10px);  
+  animation: input-animation .5s;
+}
+

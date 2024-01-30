@@ -2012,8 +2012,8 @@
         "PHYSICIAN":"AMANDA RASCON",
         "SERVICE LOCATION":"LAVEEN",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"NO",
-        "EFFECTIVE DATE":null
+        "  CONTRACTED":"YES",
+        "EFFECTIVE DATE":"CONTRACTED"
     },
     {
         "PHYSICIAN":"AMANDA RASCON",
@@ -8291,8 +8291,8 @@
         "PHYSICIAN":"DRISDE I CRUZ MARTINEZ",
         "SERVICE LOCATION":"EL MIRAGE",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"NO",
-        "EFFECTIVE DATE":null
+        "  CONTRACTED":"YES",
+        "EFFECTIVE DATE":"CONTRACTED"
     },
     {
         "PHYSICIAN":"DRISDE I CRUZ MARTINEZ",
@@ -11427,8 +11427,8 @@
         "PHYSICIAN":"ERICK TORRES",
         "SERVICE LOCATION":"WEST",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"NO",
-        "EFFECTIVE DATE":null
+        "  CONTRACTED":"YES",
+        "EFFECTIVE DATE":"CONTRACTED"
     },
     {
         "PHYSICIAN":"ERICK TORRES",
@@ -12218,8 +12218,8 @@
         "PHYSICIAN":"FERNANDO GALAVIZ",
         "SERVICE LOCATION":"NORTH",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"NO",
-        "EFFECTIVE DATE":null
+        "  CONTRACTED":"YES",
+        "EFFECTIVE DATE":"CONTRACTED"
     },
     {
         "PHYSICIAN":"FERNANDO GALAVIZ",
@@ -19421,8 +19421,8 @@
         "PHYSICIAN":"JAVIER PADILLA",
         "SERVICE LOCATION":"CENTRO",
         "INSURANCE":"UHC EXCHANGE HMO",
-        "  CONTRACTED":"NO",
-        "EFFECTIVE DATE":null
+        "  CONTRACTED":"YES",
+        "EFFECTIVE DATE":"CONTRACTED"
     },
     {
         "PHYSICIAN":"JAVIER PADILLA",
@@ -39503,6 +39503,13 @@
     {
         "PHYSICIAN":"JAVIER PADILLA",
         "SERVICE LOCATION":"CENTRO",
+        "INSURANCE":"ALIGNMENT HEALTH PLAN",
+        "  CONTRACTED":"NO",
+        "EFFECTIVE DATE":null
+    },
+    {
+        "PHYSICIAN":"WALTER RIOS-CORUJO",
+        "SERVICE LOCATION":"LAVEEN",
         "INSURANCE":"ALIGNMENT HEALTH PLAN",
         "  CONTRACTED":"NO",
         "EFFECTIVE DATE":null
